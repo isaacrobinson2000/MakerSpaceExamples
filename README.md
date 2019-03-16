@@ -25,4 +25,5 @@ inside the dialog
 
 5. A window with a black background should show up. If no error messages are displayed, then the examples are installed. Close the window and restart the Arduino IDE to see them under File -> Sketchbook -> MakerSpaceExamples in the Arduino IDE Menu.
 
-# Linux/Mac OS
+## Mac/Linux
+   Will be added soon...
