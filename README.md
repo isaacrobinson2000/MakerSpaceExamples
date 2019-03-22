@@ -39,8 +39,6 @@ click "Download ZIP" button that appears below.
 
 3. Open the terminal by pressing <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>T</kbd>. A window similar to the one in the picture below should show up.
 
-4. The examples are now installed, restart the Arduino IDE to see them.
-
 ![Picture of a terminal](https://user-images.githubusercontent.com/47544550/54848133-1315f900-4ca6-11e9-9aff-d6b4effcb312.png)
 
 4. Copy and paste the lines below one by one into the terminal you opened above, pressing enter after pasting them.
@@ -52,3 +50,5 @@ tar -xvzf test.tar.gz
 rm -rf isaacrobinson2000-MakerSpaceExamples-*/
 rm test.tar.gz
 ```
+
+5. The examples are now installed, restart the Arduino IDE to see them.
